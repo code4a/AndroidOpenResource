@@ -80,6 +80,42 @@
 
 ## 开源项目
 
+### [乐乐音乐4.0-AS版本](https://github.com/zhangliangming/HappyPlayer-AS)
+
+* 支持mp3、ape、flac、wav音频格式，支持ksc、krc、hrc和hrcx歌词格式文件，是一款不错的android音乐播放器
+* 效果图
+  ![happyplayer](drawable/happyplayer2.png)
+
+### [仿网易云音乐](https://github.com/aa112901/remusic)
+
+* 音乐播放器 在线 下载
+* 效果图
+  ![remusic](drawable/remusic.png)
+
+### [简阅客户端](https://github.com/chentao0707/SimplifyReader)
+
+* 一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。项目采取的是MVP架构开发，由于还是摸索阶段，可能不是很规范。但基本上应该是这么个套路，至少我个人认为是这样的~恩，就是这样的！
+* 效果图
+  ![simplifyreader](drawable/simplifyreader.jpg)
+
+### [豆芽客户端](https://github.com/DreaminginCodeZH/Douya)
+
+* 开源的 Material Design 豆瓣客户端（A Material Design app for douban.com）
+* 效果图
+  ![douya](drawable/douya.png)
+
+### [即时通讯：嗨豹](https://github.com/sealtalk/sealtalk-android)
+
+* 基于融云开发的 Android 版即时通讯（IM）应用程序 - 嗨豹。还能发红包
+* 效果图
+  ![redpacket](drawable/redpacket.gif)
+
+### [洛克商城](https://github.com/Shuyun123/LKShop)
+
+* 简单商城 开源版， 包括用户注册、登录、密码找回、短信验证、用户分享、消息推送、订单上传、商品分类、商品收藏、购物车订单的增添、删除、商品查询、用户设置、用户评价、用户评论等基本功能。
+* 效果图
+  ![lkshop](drawable/lkshop.png)
+
 ## 插件
 
 ## 开源框架
