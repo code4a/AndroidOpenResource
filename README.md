@@ -50,7 +50,47 @@
 
 ## UI相关效果
 
+### [Toasty](https://github.com/GrenderG/Toasty)
+
+* 一个创建自定义Toast的库。正如作者所说，这个库是：The usual Toast, but with steroids.
+* 效果图
+  ![Toasty](drawable/Toasty.png)
+
+### [StyleableToast](https://github.com/Muddz/StyleableToast)
+
+* A library that takes the standard Android toast to the next level with a variety of styling options. Style your toast either from code or styles.xml
+* 效果图
+  ![StyleableToast](drawable/StyleableToast.png)
+  ![StyleableToast](drawable/styleableToast1.gif)
+
+### [CoordinatorTabLayout](https://github.com/hugeterry/CoordinatorTabLayout)
+
+* CoordinatorTabLayout是一个自定义的组合控件，帮助你快速实现TabLayout与CoordinatorLayout相结合的样式。
+* 效果图
+  ![CoordinatorTabLayout](drawable/CoordinatorTabLayout.gif)
+
+## 性能相关
+
+### [Store](https://github.com/NYTimes/Store)
+
+* Store是一个异步加载和缓存库。文档描述：Store是一个简化数据的请求，解析，保存，以及数据重试的类。一个Store类似于 仓库模式 ，不过用 RxJava封装成了响应式的API，以支持单向数据流 。文档非常易懂，这个库值得尝试。你可以尝试各种flows，比如数据请求，缓存，解析等。
+* 原理图
+  ![Store](drawable/store-1.jpg)
+
 ## 菜单
+
+### [AwesomeBar](https://github.com/florent37/AwesomeBar)
+
+* 这是Florent Champigny的另一个很棒的库。一种 top bar 的新设计，与DrawerLayout一起协同工作。灵感来自Gmail Mobile from Weekz。
+* 效果图
+  ![AwesomeBar](drawable/AwesomeBar.gif)
+
+### [ArcNavigationView](https://github.com/rom4ek/ArcNavigationView)
+
+* Another approach to create NavigationDrawer with Material concepts
+* NavigationView from android design support library with curved edge
+* 效果图
+  ![ArcNavigationView](drawable/ArcNavigationView.png)
 
 ## 节选器
 
@@ -60,17 +100,75 @@
 
 ## 进度条
 
+### [PreviewSeekBar](https://github.com/rubensousa/PreviewSeekBar)
+
+* 如果你使用Google Play Movies，你可能注意到了这个动画效果很棒，可以预览电影的SeekBar。 Rúben Sousa 实现了这种效果并开源。下面的gif图片很好的说明了其功能。如果你的app是一个播放器，你决定应该试试。
+* 效果图
+  ![PreviewSeekBar](drawable/PreviewSeekBar.gif)
+
+
 ## UI其他
+
+### [excelPanel](https://github.com/zhouchaoyuan/excelPanel)
+
+* RecyclerView实现的二维表格，不仅可以加载历史数据，还能加载新数据。
+* 效果图
+  ![excelPanel](drawable/excelPanel.gif)
+
+### [Horizontal-Calendar](https://github.com/Mulham-Raee/Horizontal-Calendar)
+
+* A material horizontal calendar view for Android based on RecyclerView
+* 效果图
+  ![Horizontal-Calendar](drawable/Horizontal-Calendar.gif)
+
+### [CameraFragment](https://github.com/florent37/CameraFragment)
+
+* 一个集成了拍照功能的Fragment ，根据README：
+  - CameraFragment直接预览camera视图，并提供简单的API来捕获或者管理设备。你可以使用 CameraFragment 设置自己的布局以及控制camera。
+* 效果图
+  ![CameraFragment](drawable/CameraFragment.gif)
+
+### [ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)
+
+* 一个可以在加载数据的时候显示闪烁(Shimmer)的RecyclerView。 这个RecyclerView内置一个adapter，控制shimmer的外观。
+* 效果图
+  ![ShimmerRecyclerView](drawable/ShimmerRecyclerView.gif)
+
+### [Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)
+
+* 谷歌启动器风格的开关图标这个lib继承AppCompatImageView，可以使用app:srcCompat属性为SwitchIconView设置任意图标(vector 或者 image)。
+* 效果图
+  ![Android-SwitchIcon](drawable/Android-SwitchIcon.gif)
 
 ## 动画
 
+### [lottie-android](https://github.com/airbnb/lottie-android)
+
+* 这是一个能解析 Adobe After Effects 动画导出的JSON文件并把它们渲染成本地动画的库。
+* 效果图
+  ![lottie-android](drawable/lottie-android.gif)
+
 ## 网络相关
 
-## 图像截取
+### [chuck](https://github.com/jgilfelt/chuck)
+
+* Chuck is a simple in-app HTTP inspector for Android OkHttp clients. Chuck intercepts and persists all HTTP requests and responses inside your application, and provides a UI for inspecting their content.
+* 效果图
+  ![chuck](drawable/chuck.gif)
 
 ## 数据库
 
 ## 图像浏览及处理
+
+### [boxing](https://github.com/Bilibili/boxing)
+
+* Boxing是一个基于MVP模式的Android多媒体选择器，你可以：
+  - 图片选择(单/多选)，
+  - 预览或者剪裁图片。
+  - 它还支持gif，视图选择，图片压缩以及自定义UI：
+* 效果图
+  ![boxing](drawable/boxing.png)
+
 
 ## 视频音频处理
 
@@ -217,7 +315,7 @@
 * Lightweight pedometer app for Android using the hardware step sensor
 * 效果图
   ![Pedometer](drawable/Pedometer.png)
-  
+
 ## 插件
 
 ## 开源框架
@@ -271,6 +369,10 @@
 ### [人脸识别EyeKey](http://www.eyekey.com/devcenter/index.html)
 
 * 十余年生物识别领域精耕细作，EyeKey拥有高精准度的人脸识别、虹膜识别、指纹识别等多模态生物识别算法和强大处理能力的比对集群。海量人脸数据挖掘，多层次深度神经网络，大规模服务集群，多像素规格适配。我们为所有开发者和企业提供丰富的免费人脸识别API接口，适配不同开发环境的SDK，满足不同应用环境对生物识别身份认证云服务的需求。
+
+### [weixin-java-tools](https://github.com/wechat-group/weixin-java-tools)
+
+* 微信支付、小程序、企业号和公众号（包括服务号和订阅号） Java SDK开发工具包
 
 # 致谢
 
