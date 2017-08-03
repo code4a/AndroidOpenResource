@@ -116,6 +116,108 @@
 * 效果图
   ![lkshop](drawable/lkshop.png)
 
+### [LeafPic](https://github.com/HoraApps/LeafPic)
+
+* 照片墙类的app是比较常见的。你是否有想过它们是如何开发的呢?LeafPic就是一个比较好的开源照片墙类的APP。包含切换主题功能。
+* 效果图
+  ![leafpic](drawable/leafpic.png)
+
+### [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar)
+
+* 这是一款用**Kotlin**语言编写的日历app。如果你想学Kotlin，这个开源项目绝对能帮到你。该项目还可以帮助你学习到添加桌面小工具。
+* 效果图
+  ![Simple Calendar](drawable/SimpleCalendar.png)
+
+### [Easy Sound Recorder](https://github.com/dkim0419/SoundRecorder)
+
+* 这是一款简单的录音app。如果你想学关于录音方面，这个开源项目可以帮到你。该项目只有一个Activity，代码非常好理解，并且采用的是MD设计。
+* 效果图
+  ![soundrecorder](drawable/soundrecorder.png)
+
+### [MLManager](https://github.com/javiersantos/MLManager)
+
+* 该软件可帮助管理手机里面的apps。从这个项目中可以学到如果获取软件的详细信息，导出apk，卸载软件等功能。这个项目的编码风格很好，可以借鉴，它的简洁代码设计和MD设计都可以参考。
+* 效果图
+  ![MLManager](drawable/MLManager.png)
+
+### [photo-affix](https://github.com/afollestad/photo-affix)
+
+* 这款应用可以水平或者垂直合并图像。从它的代码中可以学到简单的自定义控件基础。
+* 效果图
+  ![photo-affix](drawable/photo-affix.png)
+
+### [MovieGuide](https://github.com/esoxjem/MovieGuide)
+
+* Movie discovery app showcasing MVP, RxJava, Dagger 2 and Clean Architecture. Popcorn?
+* 效果图
+  ![MovieGuide](drawable/MovieGuide.png)
+
+### [AnExplorer](https://github.com/1hakr/AnExplorer)
+
+* 同样是一款轻量级的文件管理器，适用于手机和平板。root管理，loaders，自定义控件等功能都可以从这个项目中学到。
+* 效果图
+  ![AnExplorer](drawable/AnExplorer.jpg)
+
+### [Minimal ToDo](https://github.com/avjinder/Minimal-Todo)
+
+* A fully Material ToDo app with minimal features, just enough to be useful.
+* 效果图
+  ![Minimal ToDo](drawable/MinimalToDo.png)
+
+### [Timber](https://github.com/naman14/Timber)
+
+* Material Design Music Player
+* 效果图
+  ![Timber](drawable/Timber.png)
+
+### [AnotherMonitor](https://github.com/AntonioRedondo/AnotherMonitor)
+
+* Monitors and records the CPU and memory usage of Android devices
+* 效果图
+  ![AnotherMonitor](drawable/AnotherMonitor.png)
+
+### [InstaMaterial](https://github.com/frogermcs/InstaMaterial)
+
+* 该项目学习了Instagram这款应用的材料设计，正好可以帮助你提高你的MD水平。
+* 效果图
+  ![InstaMaterial](drawable/InstaMaterial.jpg)
+
+### [CoCoin](https://github.com/Nightonke/CoCoin)
+
+* Cocoin是一款个人财务记账软件。该项目可以帮助你学到操作大量用户数据，绘制漂亮的表格，自定义比较酷的控件等。
+* 效果图
+  ![CoCoin](drawable/CoCoin.png)
+
+### [Omni-Notes](https://github.com/federicoiosue/Omni-Notes)
+
+* 该项目由大量的功能，比如分享和收缩note，在note中可添加图片，视频，音频，sketch等附件，还可以添加提醒人。
+* 效果图
+  ![Omni-Notes](drawable/Omni-Notes.png)
+
+### [superCleanMaster](https://github.com/joyoyao/superCleanMaster)
+
+* 一键清理 开源版，包括内存加速，缓存清理，自启管理，软件管理等。
+* 效果图
+  ![superCleanMaster](drawable/superCleanMaster.jpg)
+
+### [Travel-Mate](https://github.com/Swati4star/Travel-Mate)
+
+* A complete travel guide
+* 效果图
+  ![Travel-Mate](drawable/Travel-Mate.png)
+
+### [turbo-editor](https://github.com/vmihalachi/turbo-editor)
+
+* Simple and powerful File Editor for Android. All is licensed under the GPLv3 license.
+* 效果图
+  ![turbo-editor](drawable/turbo-editor.png)
+
+### [Pedometer](https://github.com/j4velin/Pedometer)
+
+* Lightweight pedometer app for Android using the hardware step sensor
+* 效果图
+  ![Pedometer](drawable/Pedometer.png)
+  
 ## 插件
 
 ## 开源框架
