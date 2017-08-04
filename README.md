@@ -120,6 +120,12 @@
 
 ## 下拉刷新
 
+### [SmoothRefreshLayout](https://github.com/dkzwm/SmoothRefreshLayout)
+
+* 一个高效的Android刷新库，理论上支持所有的视图，比官方的SwipeRefreshLayout更强大且使用方便.
+* 效果图
+  ![SmoothRefreshLayout](drawable/SmoothRefreshLayout.gif)
+
 ## 模糊效果
 
 ## 进度条
@@ -363,6 +369,12 @@
 * Lightweight pedometer app for Android using the hardware step sensor
 * 效果图
   ![Pedometer](drawable/Pedometer.png)
+
+### [SmartRecom](https://github.com/LRH1993/SmartRecom)
+
+* 一款基于行为识别和个性化推荐的智能推荐APP，实时为你推荐音乐和电影，让你的生活更休闲，更精彩！SmartRecom使用了多款流行开源框架，以及Android中一些重要的技术点。
+* 效果图
+  ![SmartRecom](drawable/SmartRecom.png)
 
 ## 插件
 
