@@ -69,6 +69,30 @@
 * 效果图
   ![CoordinatorTabLayout](drawable/CoordinatorTabLayout.gif)
 
+### [Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)
+
+* 谷歌启动器风格的开关图标这个lib继承AppCompatImageView，可以使用app:srcCompat属性为SwitchIconView设置任意图标(vector 或者 image)。
+* 效果图
+  ![Android-SwitchIcon](drawable/Android-SwitchIcon.gif)
+
+### [CounterFab](https://github.com/andremion/CounterFab)
+
+* 这是一个在浮动操作按钮的右上角显示数字标识的库。
+* 效果图
+  ![CounterFab](drawable/CounterFab.gif)
+
+### [FadingTextView](https://github.com/rosenpin/FadingTextView)
+
+* 一个可以让TextView以淡如淡出的形式不断改变自己内容的库。
+* 效果图
+  ![FadingTextView](drawable/FadingTextView.gif)
+
+### [FlowLayout](https://github.com/nex3z/FlowLayout)
+
+* 一个让子view在空间不够的情况下自动跳到下一行的布局。子view之间的间隔由 FlowLayout计算出来，以便让view是均匀分布的。
+* 效果图
+  ![FlowLayout](drawable/FlowLayout.png)
+
 ## 性能相关
 
 ### [Store](https://github.com/NYTimes/Store)
@@ -134,11 +158,17 @@
 * 效果图
   ![ShimmerRecyclerView](drawable/ShimmerRecyclerView.gif)
 
-### [Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)
+### [shortbread](https://github.com/MatthiasRobbers/shortbread)
 
-* 谷歌启动器风格的开关图标这个lib继承AppCompatImageView，可以使用app:srcCompat属性为SwitchIconView设置任意图标(vector 或者 image)。
+* 为使用了 @Shortcut注解的Activity和方法生成 app shortcuts 。无需动用 manifest, XML以及 shortcut manager。只需为想要 shortcut调用的代码添加注释。
 * 效果图
-  ![Android-SwitchIcon](drawable/Android-SwitchIcon.gif)
+  ![shortbread](drawable/shortbread.png)
+
+### [MaterialAbout](https://github.com/jrvansuita/MaterialAbout)
+
+* 这是一个帮助你实现关于我界面的库。
+* 效果图
+  ![MaterialAbout](drawable/MaterialAbout.png)
 
 ## 动画
 
@@ -156,7 +186,25 @@
 * 效果图
   ![chuck](drawable/chuck.gif)
 
+### [bridge](https://github.com/afollestad/bridge)
+
+* Bridge是一个简单但是强大的HTTP网络操作库。提供链式调用的API，为了最大的兼容性和最快的速度，用 Java/Android的 URLConnection类实现。
+
+### [ason](https://github.com/afollestad/ason)
+
+* 这是 Aidan Follestad 的第二个library。其主要目的是简化和JSON的交互。
+
 ## 数据库
+
+### [ObjectBox](https://github.com/greenrobot/ObjectBox)
+
+* 大家都应该知道 greenrobot ，不知道的话也应该知道他们开发的 GreenDAO 和 EventBus 。这次要介绍的是一个面向对象的数据库。greenrobot宣称：
+  - 性能是我们创建ObjectBox的首要因素。之前我们创建了安卓和 SQLite上 最快的对象关系映射 (ORM) greenDAO 。自从2011年第一个版本发布以来，我们对对象持久化-以及 SQLite的缺陷有了许多认识。我们意识到， 要显著提高移动端的性能，需要从核型开始，创建一个基于对象的数据库。
+  - 请注意目前ObjectBox还是测试版本(0.9.13)。
+
+### [greenDAO](https://github.com/greenrobot/greenDAO)
+
+* greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases. 
 
 ## 图像浏览及处理
 
